@@ -1,0 +1,3 @@
+chart/charts
+chart/*.lock
+configurations.*
